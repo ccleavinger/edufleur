@@ -1,5 +1,10 @@
 # Edufleur
 
+## Current URL:
+https://tranquil-finer-earthy.ngrok-free.dev 
+
+----
+
 A mobile-friendly native plant learning app. SolidJS and Vite provide the frontend; Rust Axum serves the API and built frontend. Local libsql stores progress. One container, no AWS services or remote database.
 
 The landing page (`/`) introduces the app. `/habitats` browses state/ecoregion courses; `/courses/:id` supports direct links, five-species introductions, photo quizzes, retries, and image reports. Course progress is independent across areas and survives catalog rebuilds.
