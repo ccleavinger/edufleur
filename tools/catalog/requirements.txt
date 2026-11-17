@@ -1,0 +1,4 @@
+# Only the offline preparation environment needs these packages.
+Pillow>=11,<13
+pyshp>=2.3,<4
+pyproj>=3.7,<4

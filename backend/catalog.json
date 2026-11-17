@@ -1,0 +1,96 @@
+[
+  {
+    "id": "co-foothills",
+    "state": "Colorado",
+    "habitat": "Foothill woodlands",
+    "description": "Meet the trees and shrubs of sunny slopes and open woodlands.",
+    "plants": [
+      {
+        "id": "co-foothills-0",
+        "scientificName": "Pinus ponderosa",
+        "name": "Ponderosa pine",
+        "tip": "Look for long needles bundled in groups of two or three. Mature bark forms broad orange-brown plates.",
+        "prompt": "Which feature points to ponderosa pine?",
+        "options": [
+          "Long needles in bundles",
+          "Broad leaves with lobes",
+          "Tiny overlapping scale leaves"
+        ],
+        "correct": 0
+      },
+      {
+        "id": "co-foothills-1",
+        "scientificName": "Quercus gambelii",
+        "name": "Gambel oak",
+        "tip": "Its simple leaves have rounded lobes. It often forms thickets and produces acorns.",
+        "prompt": "Which feature supports identifying Gambel oak?",
+        "options": [
+          "Rounded leaf lobes and acorns",
+          "Blue berries and needle leaves",
+          "Paired winged seeds"
+        ],
+        "correct": 0
+      },
+      {
+        "id": "co-foothills-2",
+        "scientificName": "Juniperus scopulorum",
+        "name": "Rocky Mountain juniper",
+        "tip": "Adult foliage has small scale-like leaves. The blue berry-like structures are fleshy cones.",
+        "prompt": "Those blue berry-like structures are\u2026",
+        "options": [
+          "Fleshy cones",
+          "Acorns",
+          "Flower petals"
+        ],
+        "correct": 0
+      }
+    ]
+  },
+  {
+    "id": "az-desert",
+    "state": "Arizona",
+    "habitat": "Sonoran desert",
+    "description": "Practice noticing shapes and adaptations in the desert.",
+    "plants": [
+      {
+        "id": "az-desert-0",
+        "scientificName": "Carnegiea gigantea",
+        "name": "Saguaro",
+        "tip": "A tall columnar cactus with pleated green stems. Arms can develop with age; young plants may have none.",
+        "prompt": "Can a young saguaro lack arms?",
+        "options": [
+          "Yes",
+          "No, arms are required",
+          "Only after flowering"
+        ],
+        "correct": 0
+      },
+      {
+        "id": "az-desert-1",
+        "scientificName": "Parkinsonia florida",
+        "name": "Blue palo verde",
+        "tip": "Blue-green bark helps this desert tree photosynthesize. Leaves are small and flowers are yellow.",
+        "prompt": "Which clue is especially useful for blue palo verde?",
+        "options": [
+          "Blue-green bark",
+          "Large evergreen needles",
+          "White peeling bark"
+        ],
+        "correct": 0
+      },
+      {
+        "id": "az-desert-2",
+        "scientificName": "Larrea tridentata",
+        "name": "Creosote bush",
+        "tip": "Look for small paired leaflets with a resinous coating and yellow flowers. Use several traits together.",
+        "prompt": "Which combination fits creosote bush?",
+        "options": [
+          "Paired resinous leaflets and yellow flowers",
+          "Needle bundles and cones",
+          "Rounded lobes and acorns"
+        ],
+        "correct": 0
+      }
+    ]
+  }
+]
